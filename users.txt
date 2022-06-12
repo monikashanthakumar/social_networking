@@ -1,0 +1,8 @@
+bob 0 bob@123 delhi student bob@gmail.com
+rob 1 rob@123 bangalore student rob@gmail.com
+richard 2 richard@123 mumbai student richard@gmail.com
+priya 3 priya@123 hyderabad student priya@gmail.com
+anaa 4 ana@123 bangalore student ana@gmail.com
+peter 5 peter@123 chennai student peter@gmail.com
+roger 6 roger@123 delhi student roger@gmail.com
+amy 7 amy@123 mumbai student amy@gmail.com
